@@ -1,9 +1,83 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.3">
   <diagram name="Page-1" id="dRGVyArqeNwHK4iZgHKG">
-    <mxGraphModel>
+    <mxGraphModel dx="778" dy="506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="Ltuh1qLf4xUASHW0vxxt-18" target="Ltuh1qLf4xUASHW0vxxt-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="352" y="187" />
+              <mxPoint x="352" y="187" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-18" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="164" y="74.16" width="382" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-16" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="162" y="195" width="379" height="298" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-1" value="HÌNH ẢNH SỰ CỐ&lt;div&gt;MÔ TẢ SỰ CỐ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="190" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="Ltuh1qLf4xUASHW0vxxt-2" target="Ltuh1qLf4xUASHW0vxxt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="Ltuh1qLf4xUASHW0vxxt-2" target="Ltuh1qLf4xUASHW0vxxt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-2" value="PHÂN TÍCH HÌNH ẢNH (AZURE AI VISION/AI AZURE BUILDER)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="180" y="227" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="273" as="sourcePoint" />
+            <mxPoint x="319" y="274" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="359" y="273" />
+              <mxPoint x="359" y="274" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-4" value="TÀI LIỆU KỸ THUẬT (SHAREPOINT)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="399" y="227" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="Ltuh1qLf4xUASHW0vxxt-7" target="Ltuh1qLf4xUASHW0vxxt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-7" value="TẠO BÁO CÁO (CHI TIẾT, PHÂN TÍCH LỖI, PHƯƠNG ÁN KHẮC PHỤC)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="179.5" y="318" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-9" value="LƯU TRỮ TÀI LIỆU VÀO SHAREPOINT" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="179.5" y="416" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerAutomate.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="269" y="385" width="31.37" height="24.84" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-09-128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="368" y="218" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-17" value="THÔNG BÁO XỬ LÝ HOÀN TẤT" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="365" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.548;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.556;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ltuh1qLf4xUASHW0vxxt-16" target="Ltuh1qLf4xUASHW0vxxt-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="373" y="192" />
+              <mxPoint x="373" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-21" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerApps.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="506.39" y="83" width="34.61" height="33.16" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="509.02" y="126" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltuh1qLf4xUASHW0vxxt-23" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/CopilotStudio.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="425" y="394" width="84.02" height="77" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
